@@ -240,6 +240,10 @@ footer{
         align-items: flex-start;
         padding: 5px;
     }
+    .abubhabi-abs{
+        padding: 10px 10px;
+
+    }
     .hero-text{
         position: absolute;
         left: 5px;
@@ -248,8 +252,8 @@ footer{
         font-size: 25px;
     }
     .abubhabi{
-        min-height: 2000px;
-        margin-top: 150px;
+        min-height: 1800px;
+        margin-top: 80px;
     }
     .fortbox{
         min-height: 800px;
@@ -287,6 +291,10 @@ footer{
 .gallery div p{
     color: #020202;
     width: min(350px,100%);
+}
+.gallery div h4{
+    width: min(350px,100%);
+
 }
 .gallery h4{
     color: #595959;
